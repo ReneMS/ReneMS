@@ -1,7 +1,7 @@
 # Hola, soy René Molina Solís 👋
 ### Analista de Datos & Desarrollador Web 💻📊
 
-Soy Técnico de Nivel Superior en Computación e Informática, apasionado por transformar datos complejos en soluciones eficientes y construir plataformas web robustas. Mi experiencia combina la ingeniería de datos (procesos ETL, performance tuning) con el desarrollo frontend y backend, apoyándome en herramientas de Inteligencia Artificial para potenciar la productividad.
+Soy Técnico en Computación e Informática, especializado en transformar datos complejos en soluciones eficientes y construir plataformas web robustas. Mi experiencia combina la ingeniería de datos (procesos ETL, performance tuning) con el desarrollo frontend y backend, apoyándome en herramientas de Inteligencia Artificial para potenciar la productividad.
 
 ## 🛠️ Stack Tecnológico y Herramientas
 
