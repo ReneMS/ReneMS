@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy René Molina Solís 👋
+### Analista de Datos & Desarrollador Web 💻📊
 
-<!--
-**ReneMS/ReneMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnico de Nivel Superior en Computación e Informática, apasionado por transformar datos complejos en soluciones eficientes y construir plataformas web robustas. Mi experiencia combina la ingeniería de datos (procesos ETL, performance tuning) con el desarrollo frontend y backend, apoyándome en herramientas de Inteligencia Artificial para potenciar la productividad.
 
-Here are some ideas to get you started:
+## 🛠️ Stack Tecnológico y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Lenguajes:** Python, PHP, JavaScript, SQL (T-SQL)
+* **Frameworks & Librerías:** Reflex, Django, Flet, React, Next.js, Vue
+* **Bases de Datos:** SQL Server, PostgreSQL
+* **DevOps & Infraestructura:** Docker, Linux (Mint/Lubuntu), Coolify, Dokploy, VPS Hosting
+* **Automatización & IA:** N8N, ChatGPT, Claude (AI-Assisted Development)
+* **Otros:** Git/GitHub, WordPress, Excel Avanzado
+
+## 🚀 Proyectos Destacados
+
+* 📦 **[Logistock](https://logistock.cloud):** Sistema integral de control de inventarios, gestión de bodegas y administración logística. Desarrollado en PHP y desplegado con Docker en un VPS Ubuntu.
+* 🌐 **[rmolinas.dev](https://rmolinas.dev):** Mi portafolio interactivo personal, construido íntegramente (frontend y backend) utilizando el framework Reflex de Python. *(En desarrollo)*
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de René](https://github-readme-stats.vercel.app/api?username=ReneMS&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneMS&layout=compact&theme=radical)
+
+## 📫 Conecta conmigo
+- 💼 [LinkedIn](https://linkedin.com/in/rmolinas)
+- ✉️ renemolinasolis@gmail.com
