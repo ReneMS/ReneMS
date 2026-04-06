@@ -15,7 +15,7 @@ Soy Técnico en Computación e Informática, especializado en transformar datos 
 ## 🚀 Proyectos Destacados
 
 * 📦 **[Logistock](https://logistock.cloud):** Sistema integral de control de inventarios, gestión de bodegas y administración logística. Desarrollado en PHP y desplegado con Docker en un VPS Ubuntu.
-* 🌐 **[rmolinas.dev](https://rmolinas.dev):** Mi portafolio interactivo personal, construido íntegramente (frontend y backend) utilizando el framework Reflex de Python. *(En desarrollo)*
+* 🌐 **[rmolinas.dev](https://rmolinas.dev):** Mi portafolio interactivo personal, construido íntegramente (frontend y backend) utilizando el framework Reflex de Python.
 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de René](https://github-readme-stats.vercel.app/api?username=ReneMS&show_icons=true&theme=radical)
